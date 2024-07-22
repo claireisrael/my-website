@@ -200,7 +200,7 @@ min-width: 280px;
 position: relative;
 }
 .text-animation span::before{
-content: "software engineer";
+content: "a groundbreaker talent";
 color: var(--main-color);
 animation: words 5s infinite;
 }
@@ -234,7 +234,7 @@ to{
 }
 81%,
 100%{
-    content: "Full stack developer";
+    content: "Backend developer";
 }
 }
 @keyframes typing{
